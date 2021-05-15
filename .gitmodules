@@ -1,0 +1,36 @@
+[submodule "algorithms"]
+	path = algorithms
+	url = https://github.com/flych3r/algorithms.git
+[submodule "class-artificial-inteligence"]
+	path = class-artificial-inteligence
+	url = https://github.com/flych3r/class-artificial-inteligence.git
+[submodule "class-competitive-programming"]
+	path = class-competitive-programming
+	url = https://github.com/flych3r/class-competitive-programming.git
+[submodule "class-compilers"]
+	path = class-compilers
+	url = https://github.com/flych3r/class-compilers.git
+[submodule "class-computational-mathematics"]
+	path = class-computational-mathematics
+	url = https://github.com/flych3r/class-computational-mathematics.git
+[submodule "class-computer-graphics"]
+	path = class-computer-graphics
+	url = https://github.com/flych3r/class-computer-graphics.git
+[submodule "class-computer-vision"]
+	path = class-computer-vision
+	url = https://github.com/flych3r/class-computer-vision.git
+[submodule "class-distribuited-systems"]
+	path = class-distribuited-systems
+	url = https://github.com/flych3r/class-distribuited-systems.git
+[submodule "class-machine-learning"]
+	path = class-machine-learning
+	url = https://github.com/flych3r/class-machine-learning.git
+[submodule "class-parallel-programming"]
+	path = class-parallel-programming
+	url = https://github.com/flych3r/class-parallel-programming.git
+[submodule "class-software-persistence"]
+	path = class-software-persistence
+	url = https://github.com/flych3r/class-software-persistence.git
+[submodule "class-web-development"]
+	path = class-web-development
+	url = https://github.com/flych3r/class-web-development.git
